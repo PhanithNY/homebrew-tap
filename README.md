@@ -1,8 +1,8 @@
 # Homebrew tap for Wisp
 
-The first signed and notarized Wisp release is being prepared. No installable cask is published yet.
+Install the free, signed and notarized Wisp app through Homebrew.
 
-After the first release, installation will be:
+Install:
 
 ```sh
 brew install --cask PhanithNY/tap/wisp

@@ -17,6 +17,7 @@ brew uninstall --cask wisp
 ```
 
 Before upgrading or uninstalling, choose **Wisp → Quit Wisp Completely**. Ordinary Quit leaves the menu bar running.
+If the Dock icon is hidden, use the menu bar panel's power button to quit completely.
 Uninstalling retains local preferences and history.
 
 Requires macOS 26 or later. Packages support Apple silicon and Intel.
